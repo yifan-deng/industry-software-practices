@@ -37,3 +37,4 @@ git branch -d mymaster
 # git branch {name for what I'm about to work on}
 # git commit...
 #adding something to try to commit
+#adding something to try to commit again
