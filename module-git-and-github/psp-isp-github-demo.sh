@@ -35,5 +35,5 @@ git branch -d mymaster
 
 # now get to work!
 # git branch {name for what I'm about to work on}
-#testing
+#testing adding changes
 # git commit...
